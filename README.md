@@ -149,4 +149,4 @@ It is an attempt to articulate a style of thinking shaped by:
 
 ## 📄 License
 
-Open for reading, sharing, and discussion.
+Open for reading, sharing and discussion.

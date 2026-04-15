@@ -145,6 +145,8 @@ It is an attempt to articulate a style of thinking shaped by:
 
 ---
 
+##📄 Russian version of the essay is available as a PDF: *От Диагноза к Теореме.pdf*
+
 ## 📄 License
 
 Open for reading, sharing, and discussion.
